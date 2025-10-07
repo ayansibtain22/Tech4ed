@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Allow sharing files from getExternalFilesDir(...) -->
+    <external-files-path name="ext_files_all" path="." />
+    <!-- Optional: cache files -->
+    <cache-path name="cache" path="." />
+    <!-- Optional: internal filesDir -->
+    <files-path name="internal" path="." />
+</paths>

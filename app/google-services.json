@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244803501142",
+    "project_id": "ayan-lms",
+    "storage_bucket": "ayan-lms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244803501142:android:68d216f024ed4314a60ff7",
+        "android_client_info": {
+          "package_name": "com.lms.ayan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzdsYNRqiyKH7QFj15u27mUY5dnGWPYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#9C27B0</color>
+    <color name="blue">#3F51B5</color>
+    <color name="sky_blue">#2196F3</color>
+    <color name="primary">#673AB7</color>
+    <color name="primary_variant">#512DA8</color>
+    <color name="secondary">#BA9D59</color>
+    <color name="error">#D32F2F</color>
+    <color name="heading">#000000</color>
+    <color name="sub_heading">#191A1A</color>
+    <color name="text">#191A1A</color>
+    <color name="edittext_bkg">#EEECFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="separator">#E0E0E0</color>
+    <color name="green">#388E3C</color>
+</resources>

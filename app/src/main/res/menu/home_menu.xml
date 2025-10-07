@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:enabled="true"
+        android:title="@string/logout" />
+    <item
+        android:id="@+id/switchLanguage"
+        android:enabled="true"
+        android:icon="@drawable/outline_language_24"
+        android:title="@string/switch_language"
+        app:showAsAction="ifRoom" />
+</menu>
